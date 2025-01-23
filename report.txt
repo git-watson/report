@@ -1,10 +1,9 @@
-January 21st - Evening Update
-Temperature: -8°C
-High -9°C | Low -10°C
-24hr Snowfall: 0 cm
-Snow Base: 150 cm
-Wind: Strong
-Skies: Overcast
+Jan 22 |  3:52PM
+Temp: -6°C | High -5°C | Low -12°C
+24hr: 3 cm | Base: 150 cm
+Wind: Moderate
+Skies: Scattered Cloud
+Visibility: Unlimited
 
 Tonight's Forecast
-Mostly cloudy. Ridge wind NW-N 30-40 km/h gusting to 50-60 km/h. Freezing level at valley bottom.
+Partly cloudy. Ridge wind W-SW 15-25 km/h. Freezing level at the valley bottom.
