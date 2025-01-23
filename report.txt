@@ -5,6 +5,5 @@ Snow Base: 150 cm
 Wind: Moderate
 Skies: Scattered Cloud
 Visibility: Unlimited
-
 Tonight's Forecast
 Partly cloudy. Ridge wind W-SW 15-25 km/h. Freezing level at the valley bottom.
