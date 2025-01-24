@@ -4,12 +4,12 @@
 	<time>2:19 PM</time>
 	<temp>-6°C</temp>
 	<high-temp>High -6°C</high-temp>
-	<low-temp>Low -13°C</low-temp>
+	<low-temp>Low -12°C</low-temp>
 	<snowfall>24hr Snowfall: 0 cm</snowfall>
 	<snowbase>Snow Base: 150 cm</snowbase>
 	<visibility>Unlimited</visibility>
 	<wind>Medium</wind>
 	<skies>Scattered Cloud</skies>
-	<forecast-title>Tonight's Forecast</forecast-title>
-	<forecast>Mostly cloudy with a chance of isolated flurries. Isolated amounts of Trace-2 cm possible. Ridge wind NW-N 30-40 km/h gusting to 50-60 km/h.</forecast>
+	<forecast-title>Today's Forecast</forecast-title>
+	<forecast>Mostly cloudy over the day, clearing out by the late afternoon or early evening. Ridge wind NW-N 25-35 km/h gusting 45-55 km/h in the morning, decreasing to 15-25 km/h gusting 30-40 km/h in the afternoon.</forecast>
 </report>
