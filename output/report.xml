@@ -1,6 +1,6 @@
 
 <report>
-	<date>Jan 23</date>
+	<date>January 23</date>
 	<time>2:19 PM</time>
 	<temp>-6°C</temp>
 	<high-temp>High -6°C</high-temp>
@@ -11,5 +11,5 @@
 	<wind>Medium</wind>
 	<skies>Scattered Cloud</skies>
 	<forecast-title>Tonight's Forecast</forecast-title>
-	<forecast>Mostly cloudy with a chance of isolated flurries. Isolated amounts of Trace-2 cm possible. Ridge wind NW-N 30-40 km/h gusting to 50-60 km/h. Freezing level at the valley bottom.</forecast>
+	<forecast>Mostly cloudy with a chance of isolated flurries. Isolated amounts of Trace-2 cm possible. Ridge wind NW-N 30-40 km/h gusting to 50-60 km/h.</forecast>
 </report>
