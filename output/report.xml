@@ -1,16 +1,16 @@
-
-	<report>
-		<date>January 24</date>
-		<time>Updated: 4:22 PM</time>
-		<temp>-11°C</temp>
-		<high-temp>High -6°C</high-temp>
-		<low-temp>Low -14°C</low-temp>
-		<snowfall_24hr>1cm</snowfall_24hr>
-		<snowbase>149 cm</snowbase>
-		<visibility>Unlimited</visibility>
-		<wind>Moderate</wind>
-		<skies>Clear</skies>
-		<forecast-title>Tonight's Forecast</forecast-title>
-		<forecast>Partly cloudy. Ridge wind NW-N 15-25 km/h.</forecast>
-	</report>
-	
+xml_content = f"""
+<report>
+    <date>{formatted_date}</date>
+    <time>Updated: {formatted_time}</time>
+    <temp>{snow_report.get('Current Temperature', 'N/A')}</temp>
+    <high-temp>{weather_forecast.get('High', 'High: N/A')}</high-temp>
+    <low-temp>{weather_forecast.get('Low', 'Low: N/A')}</low-temp>
+    <snowfall_24hr>{snow_report.get('24hr Snowfall', 'N/A')}cm</snowfall_24hr>
+    <snowbase>{snow_report.get('Snow Base', 'N/A')}</snowbase>
+    <visibility>{snow_report.get('Visibility', 'N/A')}</visibility>
+    <wind>{snow_report.get('Wind', 'N/A')}</wind>
+    <skies>{snow_report.get('Skies', 'N/A')}</skies>
+    <forecast-title>{forecast_label}</forecast-title>
+    <forecast>{forecast_text}</forecast>
+</report>
+"""
