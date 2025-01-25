@@ -1,15 +1,15 @@
 
 <report>
 	<date>January 24</date>
-	<time>7:03 AM</time>
-	<temp>-10°C</temp>
+	<time>4:22 PM</time>
+	<temp>-11°C</temp>
 	<high-temp>High -6°C</high-temp>
-	<low-temp>Low -12°C</low-temp>
-	<snowfall>24hr Snowfall: 2 cm</snowfall>
-	<snowbase>Snow Base: 150 cm</snowbase>
-	<visibility>Limited</visibility>
+	<low-temp>Low -14°C</low-temp>
+	<snowfall>24hr Snowfall: 1 cm</snowfall>
+	<snowbase>Snow Base: 149 cm</snowbase>
+	<visibility>Unlimited</visibility>
 	<wind>Moderate</wind>
-	<skies>Obscure</skies>
-	<forecast-title>Today's Forecast</forecast-title>
-	<forecast>Mostly cloudy over the day, clearing out by the late afternoon or early evening. Ridge wind NW-N 25-35 km/h gusting 45-55 km/h in the morning, decreasing to 15-25 km/h gusting 30-40 km/h in the afternoon.</forecast>
+	<skies>Clear</skies>
+	<forecast-title>Tonight's Forecast</forecast-title>
+	<forecast>Partly cloudy. Ridge wind NW-N 15-25 km/h.</forecast>
 </report>
