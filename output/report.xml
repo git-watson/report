@@ -3,14 +3,14 @@
 		<date>January 25</date>
 		<time>4:49 PM</time>
 		<temp>-11°C</temp>
-		<high-temp>High -7°C</high-temp>
-		<low-temp>Low -12°C</low-temp>
+		<high-temp>High -1°C</high-temp>
+		<low-temp>Low -13°C</low-temp>
 		<snowfall_24hr>0cm</snowfall_24hr>
 		<snowbase>148 cm</snowbase>
 		<visibility>Unlimited</visibility>
 		<wind>Light</wind>
 		<skies>Broken Cloud</skies>
 		<forecast-title>Today's Forecast</forecast-title>
-		<forecast>A mix of sun and cloud. Ridge wind NNW-NNE 10-20 km/h.</forecast>
+		<forecast>Mainly sunny with a few clouds. Ridge wind NW-N 15-25 km/h this morning becoming light this afternoon.</forecast>
 	</report>
 	
