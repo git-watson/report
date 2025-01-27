@@ -4,13 +4,13 @@
 		<time>6:40 AM</time>
 		<temp>-13°C</temp>
 		<high-temp>High -1°C</high-temp>
-		<low-temp>Low -6°C</low-temp>
+		<low-temp>Low -13°C</low-temp>
 		<snowfall_24hr>0cm</snowfall_24hr>
 		<snowbase>148 cm</snowbase>
 		<visibility>Unlimited</visibility>
 		<wind>Calm</wind>
 		<skies>Clear</skies>
-		<forecast-title>Tonight's Forecast</forecast-title>
-		<forecast>Clear. Ridge wind NW-N 15-25 km/h.</forecast>
+		<forecast-title>Today's Forecast</forecast-title>
+		<forecast>Mainly sunny with a few clouds. Ridge wind NW-N 15-25 km/h this morning becoming light this afternoon.</forecast>
 	</report>
 	
