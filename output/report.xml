@@ -1,8 +1,8 @@
 
 	<report>
 		<date>January 27</date>
-		<time>6:44 AM</time>
-		<temp>-5°C</temp>
+		<time>3:43 PM</time>
+		<temp>-2°C</temp>
 		<high-temp>High 1°C</high-temp>
 		<low-temp>Low -5°C</low-temp>
 		<snowfall_24hr>0cm</snowfall_24hr>
@@ -10,7 +10,7 @@
 		<visibility>Unlimited</visibility>
 		<wind>Light</wind>
 		<skies>Clear</skies>
-		<forecast-title>Today's Forecast</forecast-title>
-		<forecast>Sunny. Ridge wind NW-N 15-25 km/h.</forecast>
+		<forecast-title>Tonight's Forecast</forecast-title>
+		<forecast>Clear. Light ridge wind up to 15 km/h.</forecast>
 	</report>
 	
