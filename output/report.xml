@@ -10,7 +10,7 @@
 		<visibility>Unlimited</visibility>
 		<wind>Light</wind>
 		<skies>Clear</skies>
-		<forecast-title>Tonight's Forecast</forecast-title>
-		<forecast>Clear. Light ridge wind up to 15 km/h.</forecast>
+		<forecast-title>Today's Forecast</forecast-title>
+		<forecast>Sunny. Ridge wind NW-N 15-25 km/h.</forecast>
 	</report>
 	
