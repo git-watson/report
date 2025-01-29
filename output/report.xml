@@ -1,15 +1,15 @@
 
 	<report>
-		<date>January 28</date>
-		<time>3:50 PM</time>
-		<temp>2°C</temp>
+		<date>January 29</date>
+		<time>6:46 AM</time>
+		<temp>0°C</temp>
 		<high-temp>High 0°C</high-temp>
 		<low-temp>Low -3°C</low-temp>
 		<snowfall_24hr>0cm</snowfall_24hr>
 		<snowbase>145 cm</snowbase>
 		<visibility>Unlimited</visibility>
-		<wind>Calm</wind>
-		<skies>Scattered Cloud</skies>
+		<wind>Moderate</wind>
+		<skies>Clear</skies>
 		<forecast-title>Today's Forecast</forecast-title>
 		<forecast>Mostly sunny. Ridge wind SW-W 20-30 km/h gusting to 40-50 km/h.</forecast>
 	</report>
