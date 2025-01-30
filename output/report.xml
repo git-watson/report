@@ -4,13 +4,13 @@
 		<time>3:47 PM</time>
 		<temp>0°C</temp>
 		<high-temp>High 0°C</high-temp>
-		<low-temp>Low -4°C</low-temp>
+		<low-temp>Low -3°C</low-temp>
 		<snowfall_24hr>0cm</snowfall_24hr>
 		<snowbase>144 cm</snowbase>
 		<visibility>Unlimited</visibility>
 		<wind>Moderate</wind>
 		<skies>Clear</skies>
-		<forecast-title>Tonight's Forecast</forecast-title>
-		<forecast>Partly cloudy. Ridge wind SW 20-30 km/h.</forecast>
+		<forecast-title>Today's Forecast</forecast-title>
+		<forecast>Mostly sunny. Ridge wind SW-W 20-30 km/h gusting to 40-50 km/h.</forecast>
 	</report>
 	
