@@ -1,16 +1,16 @@
 
 	<report>
 		<date>January 30</date>
-		<time>7:13 AM</time>
-		<temp>-1°C</temp>
+		<time>3:57 PM</time>
+		<temp>0°C</temp>
 		<high-temp>High -1°C</high-temp>
-		<low-temp>Low -6°C</low-temp>
+		<low-temp>Low -8°C</low-temp>
 		<snowfall_24hr>0cm</snowfall_24hr>
-		<snowbase>144 cm</snowbase>
+		<snowbase>143 cm</snowbase>
 		<visibility>Unlimited</visibility>
 		<wind>Light</wind>
 		<skies>Overcast</skies>
-		<forecast-title>Today's Forecast</forecast-title>
-		<forecast>Mostly cloudy with scattered flurries beginning in the late afternoon. Trace-2 cm amounts possible. Ridge wind W-SW 20-30 km/h gusting to 40-50 km/h in the morning, then SW-S 15-25 km/h gusting to 30-40 km/h in the afternoon.</forecast>
+		<forecast-title>Tonight's Forecast</forecast-title>
+		<forecast>Overcast with light snow. 2-4 cm amounts possible. Ridge wind SW-S 20-30 km/h gusting to 40-50 km/h.</forecast>
 	</report>
 	
