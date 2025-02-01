@@ -4,13 +4,13 @@
 		<time>4:01 PM</time>
 		<temp>-2°C</temp>
 		<high-temp>High -3°C</high-temp>
-		<low-temp>Low -10°C</low-temp>
+		<low-temp>Low -7°C</low-temp>
 		<snowfall_24hr>5cm</snowfall_24hr>
 		<snowbase>145 cm</snowbase>
 		<visibility>Limited</visibility>
 		<wind>Light</wind>
 		<skies>Obscure</skies>
-		<forecast-title>Tonight's Forecast</forecast-title>
-		<forecast>Overcast with light snow. 4-8 cm amounts possible. Ridge wind S-SSW 25-35 km/h gusting to 45-55 km/h.</forecast>
+		<forecast-title>Today's Forecast</forecast-title>
+		<forecast>Overcast with periods of snow. Amounts 5-10 cm possible. Ridge wind S-SE 20-30 km/h gusting to 40-50 km/h.</forecast>
 	</report>
 	
