@@ -1,15 +1,15 @@
 
 	<report>
-		<date>January 31</date>
-		<time>4:01 PM</time>
-		<temp>-2°C</temp>
+		<date>February 01</date>
+		<time>6:39 AM</time>
+		<temp>-13°C</temp>
 		<high-temp>High -6°C</high-temp>
 		<low-temp>Low -12°C</low-temp>
-		<snowfall_24hr>5cm</snowfall_24hr>
-		<snowbase>145 cm</snowbase>
-		<visibility>Limited</visibility>
+		<snowfall_24hr>15cm</snowfall_24hr>
+		<snowbase>154 cm</snowbase>
+		<visibility>Unlimited</visibility>
 		<wind>Light</wind>
-		<skies>Obscure</skies>
+		<skies>Clear</skies>
 		<forecast-title>Today's Forecast</forecast-title>
 		<forecast>Mostly cloudy with scattered flurries. Amounts 2-4 cm possible. Ridge wind SW-W 20-30 km/h gusting to 40-50 km/h.</forecast>
 	</report>
