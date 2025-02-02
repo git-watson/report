@@ -1,16 +1,16 @@
 
 	<report>
 		<date>February 01</date>
-		<time>7:32 AM</time>
-		<temp>-13°C</temp>
+		<time>5:13 PM</time>
+		<temp>-10°C</temp>
 		<high-temp>High -6°C</high-temp>
-		<low-temp>Low -12°C</low-temp>
-		<snowfall_24hr>15cm</snowfall_24hr>
-		<snowbase>154 cm</snowbase>
+		<low-temp>Low -14°C</low-temp>
+		<snowfall_24hr>11cm</snowfall_24hr>
+		<snowbase>156 cm</snowbase>
 		<visibility>Unlimited</visibility>
-		<wind>Light</wind>
-		<skies>Clear</skies>
-		<forecast-title>Today's Forecast</forecast-title>
-		<forecast>Mostly cloudy with scattered flurries. Amounts 2-4 cm possible. Ridge wind SW-W 20-30 km/h gusting to 40-50 km/h.</forecast>
+		<wind>Calm</wind>
+		<skies>Overcast</skies>
+		<forecast-title>Tonight's Forecast</forecast-title>
+		<forecast>Overcast with light snow. 3-6 cm amounts possible. Ridge wind S-SE 25-35 km/h gusting to 45-55 km/h.</forecast>
 	</report>
 	
