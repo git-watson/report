@@ -1,16 +1,16 @@
 
 	<report>
-		<date>February 04</date>
-		<time>3:26 PM</time>
-		<temp>-12°C</temp>
-		<high-temp>High -11°C</high-temp>
-		<low-temp>Low -15°C</low-temp>
-		<snowfall_24hr>1cm</snowfall_24hr>
-		<snowbase>173 cm</snowbase>
+		<date>February 05</date>
+		<time>6:34 AM</time>
+		<temp>-23°C</temp>
+		<high-temp>High -15°C</high-temp>
+		<low-temp>Low -23°C</low-temp>
+		<snowfall_24hr>0cm</snowfall_24hr>
+		<snowbase>170 cm</snowbase>
 		<visibility>Unlimited</visibility>
-		<wind>Calm</wind>
-		<skies>Scattered Cloud</skies>
+		<wind>Moderate</wind>
+		<skies>Clear</skies>
 		<forecast-title>Today's Forecast</forecast-title>
-		<forecast>Mostly cloudy with scattered flurries. Isolated amounts up to 1-3 cm are possible. Ridge wind N-NE 15-25 km/h.</forecast>
+		<forecast>Mainly sunny with a few clouds. Ridge wind N-NW 20-30 gusting up to 40-50 km/h this morning, becoming 10-20 km/h this afternoon.</forecast>
 	</report>
 	
