@@ -4,13 +4,13 @@
 		<time>5:04 PM</time>
 		<temp>-15°C</temp>
 		<high-temp>High -15°C</high-temp>
-		<low-temp>Low -20°C</low-temp>
+		<low-temp>Low -23°C</low-temp>
 		<snowfall_24hr>0cm</snowfall_24hr>
 		<snowbase>168 cm</snowbase>
 		<visibility>Unlimited</visibility>
 		<wind>Calm</wind>
 		<skies>Scattered Cloud</skies>
-		<forecast-title>Tonight's Forecast</forecast-title>
-		<forecast>Mostly cloudy this evening becoming overcast with isolated flurries overnight. Isolated amounts of Trace-1 cm are possible. Ridge wind N-NW 10-20 km/h.</forecast>
+		<forecast-title>Today's Forecast</forecast-title>
+		<forecast>Mainly sunny with a few clouds. Ridge wind N-NW 20-30 gusting up to 40-50 km/h this morning, becoming 10-20 km/h this afternoon.</forecast>
 	</report>
 	
