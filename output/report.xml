@@ -1,14 +1,14 @@
 
 	<report>
 		<date>February 06</date>
-		<time>6:44 AM</time>
+		<time>7:39 AM</time>
 		<temp>-13°C</temp>
 		<high-temp>High -10°C</high-temp>
 		<low-temp>Low -14°C</low-temp>
 		<snowfall_24hr>2cm</snowfall_24hr>
 		<snowbase>168 cm</snowbase>
 		<visibility>Unlimited</visibility>
-		<wind>Calm</wind>
+		<wind>Light</wind>
 		<skies>Overcast</skies>
 		<forecast-title>Today's Forecast</forecast-title>
 		<forecast>Mostly cloudy with isolated flurries ending this morning then partly cloudy. Isolated amounts of Trace-1 cm are possible. Light ridge wind.</forecast>
