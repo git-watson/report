@@ -3,14 +3,14 @@
 		<date>February 06</date>
 		<time>4:23 PM</time>
 		<temp>-10°C</temp>
-		<high-temp>High -10°C</high-temp>
+		<high-temp>High -9°C</high-temp>
 		<low-temp>Low -19°C</low-temp>
 		<snowfall_24hr>2cm</snowfall_24hr>
 		<snowbase>167 cm</snowbase>
 		<visibility>Unlimited</visibility>
 		<wind>Light</wind>
 		<skies>Overcast</skies>
-		<forecast-title>Tonight's Forecast</forecast-title>
-		<forecast>Clearing this evening. Ridge wind E-NE 10-20 km/h.</forecast>
+		<forecast-title>Today's Forecast</forecast-title>
+		<forecast>A mix of sun and cloud. Ridge wind N-NW 10-20 km/h.</forecast>
 	</report>
 	
