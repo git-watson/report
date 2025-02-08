@@ -1,16 +1,16 @@
 
 	<report>
 		<date>February 07</date>
-		<time>7:06 AM</time>
-		<temp>-13°C</temp>
+		<time>4:06 PM</time>
+		<temp>-7°C</temp>
 		<high-temp>High -9°C</high-temp>
-		<low-temp>Low -19°C</low-temp>
+		<low-temp>Low -16°C</low-temp>
 		<snowfall_24hr>0cm</snowfall_24hr>
-		<snowbase>166 cm</snowbase>
+		<snowbase>164 cm</snowbase>
 		<visibility>Unlimited</visibility>
 		<wind>Calm</wind>
-		<skies>Clear</skies>
-		<forecast-title>Today's Forecast</forecast-title>
-		<forecast>A mix of sun and cloud. Ridge wind N-NW 10-20 km/h.</forecast>
+		<skies>Scattered Cloud</skies>
+		<forecast-title>Tonight's Forecast</forecast-title>
+		<forecast>Partly cloudy. Ridge wind W-SW 10-20 km/h.</forecast>
 	</report>
 	
